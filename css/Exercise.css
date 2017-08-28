@@ -1,7 +1,14 @@
 * {
   margin: 0px;
   padding: 0px;
-  font-family: "Microsoft JhengHei";
-  background-color: #222; }
+  font-family: "Microsoft JhengHei"; }
+
+html,
+body {
+  background-color: #fff; }
+
+#time {
+  color: white;
+  margin: 10px; }
 
 /*# sourceMappingURL=Exercise.css.map */
